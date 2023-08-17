@@ -3,7 +3,7 @@
 #include <string> // we shall use strings
 #include <cstdlib> // To use random numbers
 #include <ctime>
-using namespace std;
+using namespace std; //add some test code
 void rules();
 int main()
 {
